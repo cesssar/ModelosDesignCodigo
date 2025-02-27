@@ -1,1 +1,4 @@
 factory/__pycache__/
+venv/
+singleton/venv/
+singleton/__pycache__/
